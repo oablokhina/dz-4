@@ -3,7 +3,5 @@ public class Main {
         PrintValue value = new PrintValue();
         int b = value.print();
         System.out.printf("~~~%d\"~~~", b);
-
-
     }
 }
