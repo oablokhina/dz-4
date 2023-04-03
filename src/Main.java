@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        printValue value = new printValue();
-        value.print();
+        PrintValue value = new PrintValue();
+        int b = value.print();
+        System.out.printf("~~~%d\"~~~", b);
+
+
     }
 }

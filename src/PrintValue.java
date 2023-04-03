@@ -1,8 +1,8 @@
-public class printValue {
+public class PrintValue {
     int a = 5;
 
     public int print() {
-        System.out.println(a);
+        System.out.printf("---%d---", a);
         return (a);
     }
 }
