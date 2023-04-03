@@ -6,6 +6,3 @@ public class PrintValue {
         return (a);
     }
 }
-
-
-
